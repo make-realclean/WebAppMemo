@@ -9,5 +9,6 @@ This is a test page for Web application
   - 2. GitHubのアカウント作成
 
 - [2020-05-29 【超入門】初心者のためのGitとGitHubの使い方](https://tech-blog.rakus.co.jp/entry/20200529/git)
+- [サバイバルTypeScript](https://typescriptbook.jp/)
 
 
