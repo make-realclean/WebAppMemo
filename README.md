@@ -41,6 +41,12 @@ This is a test page for Web application
 
 # JavaScript Programming
 
+## 入門
+
+- [JavaScript の基礎](https://zenn.dev/ojk/books/intro-to-javascript/viewer/js-basic)
+- [とほほの JavaScript 入門 (JavaScript リファレンス)](https://www.tohoho-web.com/js/)
+- [JavaScript 入門](https://www.javadrive.jp/javascript/)
+
 ## text file I/O
 
 - [アプリ内のテキストファイルの読み込み](https://mjeeeey.hatenablog.com/entry/2019/09/02/152449)
@@ -58,5 +64,22 @@ This is a test page for Web application
   - インストール方法
 - [npm ERR! enoent ENOENT: no such file or directory, lstat 'C:\Users\username\AppData\Roaming\npm'のエラーを解決する。](https://qiita.com/L79KZJ/items/3d43ab076584b09aaef3)
   - npx コマンドでエラーが出たときの対処方法
+
+## サンプル
+
+- リポジトリの master を main に変更する必要あり
+
+```
+npx create-next-app nextjs-blog --use-npm --example "https://github.com/vercel/next-learn/tree/master/basics/learn-starter"
+```
+
 - [JavaScript フレームワーク「Next.js」とは？React との違いや導入方法を解説](https://devlog.mescius.jp/nextjs-quickstart/)
-  - サンプル
+- [【Next.js】入門してみたまとめ](https://qiita.com/__knm__/items/32c632bbb93a107aca9e)
+
+- [とほほの Next.js 入門](https://www.tohoho-web.com/ex/nextjs.html)
+
+## チュートリアル
+
+- [React tutorial](https://react.dev/learn/tutorial-tic-tac-toe)
+
+- [公式チュートリアルで Next.js に入門してみた (1) 〜アプリ新規作成、ページ遷移、スタイリング編〜](https://dev.classmethod.jp/articles/introduction-to-nextjs/)
