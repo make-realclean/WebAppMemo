@@ -43,6 +43,7 @@ This is a test page for Web application
 
 ## 入門
 
+- [JavaScript 入門（※15 分で理解できる JavaScript の基礎）](https://qiita.com/Miyate2/items/28352f370913d79a4580)
 - [JavaScript の基礎](https://zenn.dev/ojk/books/intro-to-javascript/viewer/js-basic)
 - [とほほの JavaScript 入門 (JavaScript リファレンス)](https://www.tohoho-web.com/js/)
 - [JavaScript 入門](https://www.javadrive.jp/javascript/)
